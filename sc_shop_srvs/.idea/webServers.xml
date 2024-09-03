@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ba34ea2-6b95-4ac3-9c7c-4f8fee98fd24" name="Ubuntu64">
+        <fileTransfer accessType="SFTP" host="192.168.239.128" port="22" sshConfigId="3123989c-dd53-4cbc-aebc-49258f8ed8e7" sshConfig="vention@192.168.239.128:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
